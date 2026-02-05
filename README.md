@@ -8,6 +8,7 @@ This Jupyter notebook demonstrates the implementation of linear regression from 
     3. Scikit-learn version – Leveraging machine learning libraries for professional-grade modeling.
 
 The notebook includes:
+
     1. Step-by-step error analysis and visualization
     2. Comparison of squared errors across data points
     3. Scatter plots and regression line fitting
